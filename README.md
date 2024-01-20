@@ -1,2 +1,2 @@
 # Product2_Regain_Power
-Indivedic Regain Power: HTML, CSS, JS project for quick contact, addressing selling needs. Features: Form-to-mail, Live ChatBot, Quick call. Contribute and share your feedback!
+Indivedic Regain Power is my third project at Indivedic Pvt Ltd, addressing Selling needs with quick contact using HTML,CSS and JavaScript along with messaging and mailing tools. Key features include Form submit details directly to mail, Live ChatBot with popup actions, and Quick call. Explore the codebase for Indivedic Regain Power and feel free to contribute. Your feedback is valued!
